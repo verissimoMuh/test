@@ -34,5 +34,4 @@ public class revista extends publicacao {
 		        System.out.println("A editora da publicação é " + mesPublicacao);
 		    }
 		   }
-	    
 }

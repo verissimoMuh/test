@@ -36,11 +36,7 @@ public class publicacao {
 		this.anoPublicacao = anoPublicacao;
 	}
 	
-	 public publicacao(String titulo, String autor, int anoPublicacao) {
-	        this.titulo = titulo;
-	        this.autor = autor;
-	        this.anoPublicacao = anoPublicacao;
-	    }
+	
 
 	public void exibirDetalhes () {
 		System.out.println("O titulo da publicação é " +titulo);

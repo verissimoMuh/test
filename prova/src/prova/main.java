@@ -8,7 +8,9 @@ public class main {
 		
 		publicacao primeiro = new publicacao();
 		
-		publicacao livro = new publicacao("O Senhor dos Anéis", "J.R.R. Tolkien", 1954);
+		primeiro.setTitulo("A culpa é das estrelas");
+		primeiro.setAutor("murilo");
+		primeiro.setAnoPublicacao(2015);
 		
 		livro primeiroLivro = new livro() ;
 		
